@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b611942-1681-4791-a946-b8b548f4d9e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ASLStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/3rdpartylicenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/MaterialIcons-Regular.016c14adad95a0e21a2a.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/MaterialIcons-Regular.55242ea5c378da626cab.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/MaterialIcons-Regular.8a9a261c8b8dfe90db11.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/MaterialIcons-Regular.c38ebd3cd38c98fbd16b.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/assets/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/assets/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/favicon.256x256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/favicon.512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/favicon.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/polyfills.439d40710975d289c6c6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-100.735afb75a77e96235694.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-100.d52dfbc3173753337f0f.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-100italic.73f6760249d5c5a2ec81.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-100italic.b95c754a4ce48eb85c2f.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-200.323561d9ef535b79fc5b.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-200.47d350bdf173b9274145.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-200italic.76db40bf9eb7d41ab765.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-200italic.a62e2b876702e38f8d82.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-300.1acb42d704823f917234.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-300.34f26209ba887813c1f5.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-300italic.180725ba58388431af1e.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-300italic.4380041f46f7b4bf9107.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-400.2075794c8e9e7e48e5fb.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-400.bd67f25d9c25994ffde7.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-400italic.a5888ae2424dc2ace78d.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-400italic.de4bb8c8d39843b4d00f.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-500.827182817f267a45d66d.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-500.de818060c850c7842e9f.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-500italic.0ed855b4569523aa3db4.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-500italic.5fbef688ab145036c4f3.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-600.bd2bb116d8276633fec3.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-600.eae0742c0c428ed91b22.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-600italic.43b080a4cc7d0bf844b6.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-600italic.c031cce642dbc0f3f2c9.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-700.5098f8c8aa542824cd54.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-700.dcbe8703a0a177b69212.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-700italic.52a8c3f81d98d06743bd.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-700italic.bfa3acd9e4abc9fa5a75.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-800.2277f1ba3868654aa741.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-800.47609ca009fcc8c0b7e6.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-800italic.b12796f572af240e5d48.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-800italic.e571e4c8ea969ff4293f.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-900.0f85e4bfe865defa1858.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-900.a58f25dc87faec123dd9.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-900italic.c8f1b2c3f2786b6b40e5.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/raleway-latin-900italic.f202fc5be52c2852b32d.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/runtime.ec2944dd8b20ec099bf3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/angular/styles.607a1b01d5552b2de333.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ts/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ts/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ts/src/app/app.settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ts/src/app/app.settings.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-builder.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postinstall-web.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postinstall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/SetNotFoundError.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/home/home.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/settings/settings.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/settings/settings.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/settings/settings.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/settings/settings.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/directives/webview.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/models/app.ipcCommands.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/models/app.settings.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/models/app.studySet.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/providers/electron.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/config.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/config.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/environments/environment.dev.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon.256x256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon.512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polyfills-test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig-serve.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1285878816">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ts" value="1611" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="TypeScript" value="1611" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="1" />
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="ts" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="TypeScript" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2535">
+              <caret line="169" column="30" selection-start-line="169" selection-start-column="29" selection-end-line="169" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/SetNotFoundError.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/models/app.settings.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/models/app.ipcCommands.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/models/app.studySet.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/background.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.html" />
+        <option value="$PROJECT_DIR$/src/app/app.settings.ts" />
+        <option value="$PROJECT_DIR$/src/app/models/app.studySet.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/app/SetNotFoundError.ts" />
+        <option value="$PROJECT_DIR$/src/app/models/app.ipcCommands.ts" />
+        <option value="$PROJECT_DIR$/main.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="9" />
+    <option name="y" value="23" />
+    <option name="width" value="665" />
+    <option name="height" value="708" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ASLStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASLStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASLStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASLStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASLStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASLStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASLStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASLStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASLStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASLStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASLStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASLStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASLStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASLStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="sidebar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASLStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASLStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="directives" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASLStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASLStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASLStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASLStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="providers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASLStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASLStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASLStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASLStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASLStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASLStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="environments" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b611942-1681-4791-a946-b8b548f4d9e9" name="Default Changelist" comment="" />
+      <created>1549466591749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549466591749</updated>
+      <workItem from="1549466593417" duration="167000" />
+      <workItem from="1549466850985" duration="3317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3484000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981412" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" weight="0.3295129" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295129" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/models/app.studySet.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/SetNotFoundError.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/models/app.settings.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/models/app.ipcCommands.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2535">
+          <caret line="169" column="30" selection-start-line="169" selection-start-column="29" selection-end-line="169" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
